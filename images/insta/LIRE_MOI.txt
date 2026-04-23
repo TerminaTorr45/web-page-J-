@@ -1,0 +1,20 @@
+PHOTOS INSTAGRAM — NOMADE CLAN
+=================================
+
+Ajoute ici tes 6 meilleurs posts Instagram (photos ou captures de Reels).
+
+Nomme-les exactement comme ça :
+  post-1.jpg   ← ton meilleur post (en haut à gauche)
+  post-2.jpg
+  post-3.jpg
+  post-4.jpg
+  post-5.jpg
+  post-6.jpg   ← en bas à droite
+
+Formats acceptés : .jpg  .jpeg  .png  .webp
+Taille idéale   : carré 1:1 — minimum 600×600px
+
+Comment récupérer tes photos Instagram :
+  1. Va sur instagram.com/@nomade.clan
+  2. Clique sur chaque post → Enregistrer sous
+  3. Renomme le fichier et glisse-le ici

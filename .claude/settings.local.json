@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(git clone *)",
+      "Bash(npx uipro-cli *)",
+      "Bash(claude mcp *)",
+      "Bash(where claude *)",
+      "Read(//usr/local/bin/**)",
+      "Read(//c/Users/choua/AppData/Roaming/**)",
+      "PowerShell(Get-Command claude -ErrorAction SilentlyContinue)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
