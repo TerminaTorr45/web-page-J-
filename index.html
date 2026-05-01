@@ -305,10 +305,24 @@ input,textarea,select{ font-family:inherit; font-size:inherit; color:inherit; }
   border-bottom:1px solid var(--line);
 }
 .stats-grid{ display:grid; grid-template-columns:1fr; }
-@media (min-width:768px){ .stats-grid{ grid-template-columns:repeat(3,1fr); } }
+@media (min-width:768px){
+  .stats-grid{
+    grid-template-columns:repeat(2, minmax(320px, 640px));
+    justify-content:center;
+  }
+}
 .stat{ padding:36px 24px; border-bottom:1px solid var(--line); }
 @media (min-width:768px){
-  .stat{ padding:56px 32px; border-bottom:0; border-right:1px solid var(--line); }
+  .stat{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:56px 40px;
+    border-bottom:0;
+    border-right:1px solid var(--line);
+  }
   .stat:last-child{ border-right:0; }
 }
 .stat-num{
@@ -921,12 +935,8 @@ input,textarea,select{ font-family:inherit; font-size:inherit; color:inherit; }
   <section class="stats">
     <div class="stats-grid">
       <div class="stat fade">
-        <div class="stat-num"><span data-count="20" data-suffix="">0</span><span style="color:var(--gold)">+</span></div>
+        <div class="stat-num"><span data-count="40" data-suffix="">0</span><span style="color:var(--gold)">+</span></div>
         <div class="stat-lbl">Artistes accompagnés</div>
-      </div>
-      <div class="stat fade d1">
-        <div class="stat-num"><span data-count="50000000" data-suffix="">0</span><span style="color:var(--gold)">+</span></div>
-        <div class="stat-lbl">Millions de streams</div>
       </div>
       <div class="stat fade d2">
         <div class="stat-num"><span data-count="2" data-suffix="">0</span><span style="color:var(--gold)">+</span></div>
