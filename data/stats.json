@@ -1,0 +1,20 @@
+[
+  {
+    "id": "artists",
+    "value": 20,
+    "suffix": "+",
+    "label": "Artistes accompagnés"
+  },
+  {
+    "id": "streams",
+    "value": 50000000,
+    "suffix": "+",
+    "label": "Millions de streams"
+  },
+  {
+    "id": "years",
+    "value": 2,
+    "suffix": "+",
+    "label": "Années d'expérience"
+  }
+]

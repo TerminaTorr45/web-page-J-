@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "title": "Production Musicale",
+    "description": "Beatmaking, arrangements, enregistrement vocal et réalisation artistique complète. Du concept au master livrable.",
+    "icon": "music"
+  },
+  {
+    "id": "02",
+    "title": "Édition / SACEM",
+    "description": "Dépôt SACEM, gestion des droits d'auteur, suivi des royalties. Ton catalogue protégé et monétisé.",
+    "icon": "shield"
+  },
+  {
+    "id": "03",
+    "title": "Placement",
+    "description": "Réseau direct avec A&R, majors et éditeurs. Placement sur artistes, playlists éditoriales et synchronisation.",
+    "icon": "network"
+  },
+  {
+    "id": "04",
+    "title": "A&R & Développement",
+    "description": "Identification des talents, coaching artistique, stratégie de carrière. On croit en toi avant les autres.",
+    "icon": "compass"
+  },
+  {
+    "id": "05",
+    "title": "Mix & Mastering",
+    "description": "Finition professionnelle du son. Mix multi-piste et master prêt à la distribution sur toutes les plateformes.",
+    "icon": "sliders"
+  },
+  {
+    "id": "06",
+    "title": "Management",
+    "description": "Accompagnement global : image, booking, négociation de contrats, développement de carrière à long terme.",
+    "icon": "briefcase"
+  },
+  {
+    "id": "07",
+    "title": "Distribution",
+    "description": "Distribution numérique sur toutes les plateformes — Spotify, Apple Music, Deezer et plus — avec suivi des revenus.",
+    "icon": "broadcast"
+  }
+]

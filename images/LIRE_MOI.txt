@@ -1,0 +1,57 @@
+═══════════════════════════════════════════════════════════════════
+  RQT RECORDS — Guide d'images
+═══════════════════════════════════════════════════════════════════
+
+Le site est prêt. Pour qu'il s'affiche avec tes vraies photos,
+mets-les exactement à ces emplacements (mêmes noms exacts) :
+
+
+─── ARTISTES ──────────────────────────────────────────────────────
+  images/artists/artist-1.jpg   ← portrait Artiste 1 (rap/trap)
+  images/artists/artist-2.jpg   ← portrait Artiste 2 (afro/r&b)
+  images/artists/artist-3.jpg   ← portrait Artiste 3 (drill)
+  images/artists/artist-4.jpg   ← portrait Artiste 4 (rap/boom bap)
+
+  Format conseillé : portrait vertical, ratio 4:5 (ex: 800×1000 px)
+
+
+─── SORTIES / DISCOGRAPHIE ────────────────────────────────────────
+  images/releases/release-1.jpg   ← pochette Sortie 01 (RQT—001)
+  images/releases/release-2.jpg   ← pochette Sortie 02 (RQT—002)
+  images/releases/release-3.jpg   ← pochette Sortie 03 (RQT—003)
+  images/releases/release-4.jpg   ← pochette Sortie 04 (RQT—004)
+
+  Format conseillé : carré, ratio 1:1 (ex: 800×800 px)
+
+
+─── À PROPOS / VISION ─────────────────────────────────────────────
+  images/about/about.jpg   ← photo ambiance section "Notre histoire"
+
+  Format conseillé : paysage, ratio 16:9 (ex: 1600×900 px)
+
+
+─── INSTAGRAM ─────────────────────────────────────────────────────
+  images/insta/post-1.jpg
+  images/insta/post-2.jpg
+  images/insta/post-3.jpg
+  images/insta/post-4.jpg
+  images/insta/post-5.jpg
+  images/insta/post-6.jpg
+
+  Format conseillé : carré, ratio 1:1 (ex: 1080×1080 px)
+
+
+─── INFOS ─────────────────────────────────────────────────────────
+
+• Si une image manque, un placeholder propre s'affiche à la place
+  (texte "A1", "RQT—001", etc.) — donc le site marche même
+  sans toutes les images.
+
+• Tu peux aussi utiliser .png ou .webp — il faudra alors changer
+  l'extension dans index.html (rechercher .jpg dans le fichier).
+
+• Les anciennes "WhatsApp Image" qui étaient dans /images sont
+  des screenshots de la maquette de référence — pas de vraies
+  photos. Tu peux les supprimer.
+
+═══════════════════════════════════════════════════════════════════

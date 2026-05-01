@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Artiste 1",
+    "genre": "Rap · Trap",
+    "photo": "images/artists/artist-1.jpg",
+    "spotify": "https://open.spotify.com/",
+    "instagram": "https://instagram.com/"
+  },
+  {
+    "id": 2,
+    "name": "Artiste 2",
+    "genre": "Afro · R&B",
+    "photo": "images/artists/artist-2.jpg",
+    "spotify": "https://open.spotify.com/",
+    "instagram": "https://instagram.com/"
+  },
+  {
+    "id": 3,
+    "name": "Artiste 3",
+    "genre": "Drill",
+    "photo": "images/artists/artist-3.jpg",
+    "spotify": "https://open.spotify.com/",
+    "instagram": "https://instagram.com/"
+  },
+  {
+    "id": 4,
+    "name": "Artiste 4",
+    "genre": "Rap · Boom Bap",
+    "photo": "images/artists/artist-4.jpg",
+    "spotify": "https://open.spotify.com/",
+    "instagram": "https://instagram.com/"
+  }
+]
